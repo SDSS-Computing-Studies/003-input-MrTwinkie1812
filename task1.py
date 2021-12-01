@@ -13,4 +13,4 @@ x = world.strip ()
 y = world2.strip ()
 x = "Joe Lunchbox,"
 y = "joe@koolsandwiches/.org"
-print(f"your name is {x} and your email address {y}")
+print(f"Your name is {x} and your email address {y}")

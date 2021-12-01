@@ -5,7 +5,7 @@
 # note that the statement includes a variable assignment with the entry
 # stored into the variable "data"
 # the contents of the parentheses are displayed as output
-data = input("Please enter some data and then press the Enter Key")
+data = input("")
 # the autograder is going to read the Enter key, so we need to strip it from the command
 data = data.strip()
 
