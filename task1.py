@@ -3,6 +3,7 @@
 #Display the output back to the user in the following format:\
 #You will need to use the .strip() method for this assignment. Be aware of your punctuation!
 #Your name is Joe Lunchbox, and your email is joe@koolsandwiches.org.
+
 #x = int(x)    # converts x into an integer
 #x = str(x)    # converts x into a string
 #x = float(x)  # converts x into a float
