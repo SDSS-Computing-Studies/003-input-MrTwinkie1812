@@ -18,8 +18,10 @@ y = "joe@koolsandwiches/.org"
 print(f"Your name is {x} and your email is {y}.")
 """
 txt2 = input("enter email address")
+txt = input("enter name")
+
 
 x = txt.strip() + (",")
 y = txt2.strip() +  (".")
 
-print("Your name is " + x + " and your email is " + y)txt = input("enter name")
+print("Your name is " + x + " and your email is " + y)
